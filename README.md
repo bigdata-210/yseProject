@@ -2,7 +2,7 @@
 # 기본 정보
 - 이름: 이한영
 - 이메일: gksdud2152@gmail.com
-- 블로그: bigdata-210.github.io
+- 블로그: hi-210.tistory.com
 
 # 학력
 1. 학교
